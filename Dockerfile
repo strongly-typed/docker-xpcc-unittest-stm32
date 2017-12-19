@@ -1,4 +1,4 @@
-FROM stronglytyped/xpcc-build-arm
+FROM stronglytyped/xpcc-build
 MAINTAINER Sascha Schade (strongly-typed) <stronglytyp3d@gmail.com>
 LABEL Description="Image for compiling and running unittest of xpcc for ARM from git"
 WORKDIR /work
